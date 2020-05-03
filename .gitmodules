@@ -1,0 +1,4 @@
+[submodule "Yolo3_MIT"]
+	path = Yolo3_MIT
+	url = https://github.com/TechnionAVFormula/Yolo3_MIT.git
+	branch = master
